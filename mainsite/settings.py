@@ -90,7 +90,7 @@ LANGUAGE_CODE = "es-es"
 
 TIME_ZONE = 'America/Bogota'
 
-#TIME_ZONE = 'UTC'
+#TIME_ZONE = 'UTC-5'
 
 USE_I18N = True
 
